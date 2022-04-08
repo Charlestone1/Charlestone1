@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlestone1
 - 👀 I’m interested in React and frontend development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently using React.js
 - 💞️ I’m looking to collaborate on Frontend Web development
 - 📫 How to reach me ...email me at Charlesorih@gmail.com
 

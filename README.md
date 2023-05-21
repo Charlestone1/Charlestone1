@@ -3,7 +3,7 @@
 - 🌱 I’m currently using React.js
 - 💞️ I’m looking to collaborate on Frontend Web development
 - 📫 How to reach me ...email me at Charlesorih@gmail.com
-
+- 🌍 https://charlesoriih.netlify.app/ 
 <!---
 Charlestone1/Charlestone1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
